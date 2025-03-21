@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Address
+comment1.params=doorNum\ addLine\ eirCode
+comment1.target=Address(int,\ java.lang.String,\ java.lang.String)
+comment2.params=
+comment2.target=int\ getDoorNum()
+comment3.params=dNum
+comment3.target=void\ setDoorNum(int)
+comment4.params=
+comment4.target=java.lang.String\ getAddLine()
+comment5.params=aLine
+comment5.target=void\ setAddLine(java.lang.String)
+comment6.params=
+comment6.target=java.lang.String\ getEirCode()
+comment7.params=eCode
+comment7.target=void\ setEirCode(java.lang.String)
+numComments=8
